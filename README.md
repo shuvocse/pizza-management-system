@@ -1,0 +1,2 @@
+# pizza-management-system
+Pizza Management System is Java based web application. Its features include software installation, menu generation, menu editing and correction. The system also stores user credentials for secure login. Pizza shop owners can assign the order, generate bill and get the payment from customers. In short, for all kind of pizzas, we offer online ordering, online billing and online payment options
